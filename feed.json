@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Bytebles",
     "description": "",
-    "home_page_url": "https://bytebles.github.io/bytebles",
-    "feed_url": "https://bytebles.github.io/bytebles/feed.json",
+    "home_page_url": "https://bytebles.github.io",
+    "feed_url": "https://bytebles.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Gerson Nazareth"
     },
     "items": [
         {
-            "id": "https://bytebles.github.io/bytebles/these-are-the-services-i-provide.html",
-            "url": "https://bytebles.github.io/bytebles/these-are-the-services-i-provide.html",
+            "id": "https://bytebles.github.io/these-are-the-services-i-provide.html",
+            "url": "https://bytebles.github.io/these-are-the-services-i-provide.html",
             "title": "These are the services I provide",
             "content_html": "\n  <p>\n    \n  </p>",
             "author": {
