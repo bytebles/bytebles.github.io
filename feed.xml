@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Bytebles</title>
+    <link href="https://bytebles.github.io/bytebles/feed.xml" rel="self" />
+    <link href="https://bytebles.github.io/bytebles" />
+    <updated>2023-04-27T10:52:55-06:00</updated>
+    <author>
+        <name>Gerson Nazareth</name>
+    </author>
+    <id>https://bytebles.github.io/bytebles</id>
+
+    <entry>
+        <title>These are the services I provide</title>
+        <author>
+            <name>Gerson Nazareth</name>
+        </author>
+        <link href="https://bytebles.github.io/bytebles/these-are-the-services-i-provide.html"/>
+        <id>https://bytebles.github.io/bytebles/these-are-the-services-i-provide.html</id>
+
+        <updated>2023-04-27T10:52:55-06:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
